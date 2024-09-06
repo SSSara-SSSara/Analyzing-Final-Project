@@ -1,4 +1,2 @@
 # Analyzing-Final-Project
-url <- "https://dax-cdn.cdn.appdomain.cloud/dax-noaa-weather-data-jfk-airport/1.1.4/noaa-weather-sample-data.tar.gz"
-download.file(url, destfile = "noaa-weather-sample-data.tar.gz")
-untar("noaa-weather-sample-data.tar.gz")
+https://jupyterlab-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/Final_project/IBM-DS-with-R-2-Data-Analysis-with-R.ipynb
